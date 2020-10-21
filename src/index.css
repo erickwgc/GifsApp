@@ -3,8 +3,7 @@
 }
 body{
   padding: 60px;
-  background-color:cadetblue;
-}
+  background-color: #894d8a;}
 input{
    color: grey;
   font-size: 1.2rem;
@@ -21,6 +20,7 @@ input{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bold;
   font-size: 1.5em;
+  color: white;
 }
 .card p{
   padding: 5px;
